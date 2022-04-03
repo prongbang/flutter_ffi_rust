@@ -1,0 +1,8 @@
+target/aarch64-apple-ios
+target/aarch64-linux-android
+target/armv7-linux-androideabi
+target/i686-linux-android
+target/release
+target/x86_64-apple-ios
+target/.rustc_info.json
+target/CACHEDIR.TAG
